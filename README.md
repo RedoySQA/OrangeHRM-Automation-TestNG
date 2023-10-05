@@ -42,5 +42,8 @@ https://docs.google.com/spreadsheets/d/1tw6Gt6wsXr2JpPahu30fb_MdC6OpRhAFiaWI756K
 
 ## Recorded video for automation output
 
+https://github.com/RedoySQA/OrangeHRM-Automation-TestNG/assets/143482478/36fb5018-3408-42da-9200-57487eecbafd
+
+
 
 
